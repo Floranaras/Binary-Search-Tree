@@ -1,0 +1,95 @@
+# Compiled Object Files
+*.o
+*.obj
+*.ko
+*.elf
+
+# Executables
+*.exe
+*.out
+*.app
+bst_program
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+*.so
+*.so.*
+*.dylib
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+
+# Debug Files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Build directories
+obj/
+build/
+bin/
+debug/
+release/
+
+# Core dumps
+core
+core.*
+vgcore.*
+
+# Temporary files
+*.tmp
+*.temp
+*~
+*.swp
+*.swo
+*#
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.code-workspace
+*.sublime-project
+*.sublime-workspace
+
+# System files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Dependency directories
+deps/
+vendor/
+
+# Coverage files
+*.gcno
+*.gcda
+*.gcov
+coverage/
+
+# Profiling files
+gmon.out
+*.prof
+
+# Static analysis
+*.scan
+
+# Package files
+*.tar.gz
+*.zip
+*.rar
+
+# Log files
+*.log
+
+# Configuration files (uncomment if you want to ignore)
+# config.h
+# local_config.h
